@@ -9,7 +9,7 @@ public class NameArrays : MonoBehaviour
     public string name2 = "OnePocketPimp";
     public string name3 = "dazed_nz";
     public string name4 = "skylarnight";
-    public string name5 = "admiralasspounder";
+    public string name5 = "admiral";
     public string name6 = "JavaGrunt";
     public string name7 = "BurgZergArcarde";
     public string name8 = "Pandakaebi";
