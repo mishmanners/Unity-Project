@@ -1,0 +1,6 @@
+Base path: 'C:/Users/miche/OneDrive/Variant X/Unity/2019.3.10f1/Editor/Data', plugins path 'C:/Users/miche/OneDrive/Variant X/Unity/2019.3.10f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=10585 ok=1
+
+Quitting shader compiler process

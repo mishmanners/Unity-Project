@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Casual RPG Character - 4 Avelyn/Scenes/Avelyn.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

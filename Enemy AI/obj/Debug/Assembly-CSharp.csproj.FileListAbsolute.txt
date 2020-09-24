@@ -1,0 +1,2 @@
+C:\Users\miche\Enemy AI\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\miche\Enemy AI\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
