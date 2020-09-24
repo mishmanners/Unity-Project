@@ -81,7 +81,7 @@ namespace UnityEngine.Experimental.U2D.Animation
             spriteSkin.boneTransforms = transforms;
         }
 
-        private static void CreateGameObject(int index, UnityEngine.U2D.SpriteBone[] spriteBones, Transform[] transforms, Transform root)
+        private static void CreateGameObject(int index, SpriteBone[] spriteBones, Transform[] transforms, Transform root)
         {
             if (transforms[index] == null)
             {
@@ -146,7 +146,7 @@ namespace UnityEngine.Experimental.U2D.Animation
             spriteSkin.boneTransforms = boneTransforms.ToArray();
         }
 
-        private static string CalculateBoneTransformPath(int index, UnityEngine.U2D.SpriteBone[] spriteBones)
+        private static string CalculateBoneTransformPath(int index, SpriteBone[] spriteBones)
         {
             var path = "";
 
