@@ -10,3 +10,21 @@ Hope it helps you learn just as much as I did. Or better yet, even more!
 
 These are the courses I did with Unity Premium:
 - [C# Survival guide](https://learn.unity.com/course/unity-c-survival-guide)
+
+These are the ones still on the list to complete:
+- [Beginning 2D Game Development](https://learn.unity.com/course/beginning-2d-game-development)
+- [Beginning 3D Game Development](https://learn.unity.com/course/beginning-3d-game-development)
+- [Game Dev Course Part 1](https://learn.unity.com/course/unity-game-dev-course-programming-part-1)
+- [Game Dev Course Part 2](https://learn.unity.com/course/unity-game-dev-courses-programming-part-2)
+- [Game Dev Course Part 3](https://learn.unity.com/course/unity-game-dev-courses-programming-part-3)
+- [Game Design Course](https://learn.unity.com/course/intermediate-design-unity-game-development-course)
+
+### Unity Assets
+
+These are some of my favourite Unity Assets to use.
+
+**Unity Chan**; cause she's dynamic, cute, and fun!
+
+<img src="https://github.com/MishManners/Unity-Project/blob/master/%24ku-xlarge.jpg">
+
+**
