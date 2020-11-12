@@ -64,32 +64,33 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\Scripts\ItemDB.cs" />
+    <Compile Include="Assets\Scripts\Main.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/miche/OneDrive/Documents/Git Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/miche/OneDrive/Documents/Git-Repos/Unity-Project/Dictionary/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Users/miche/OneDrive/Variant X/Unity/2019.3.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
